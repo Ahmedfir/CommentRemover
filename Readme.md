@@ -1,4 +1,4 @@
-# CommentRemover
+# Fork from CommentRemover to create a standalone jar
 
 CommentRemover is a source code comment removing library for Java&trade; 7 and above.<br><br>
 It also supports JavaScript , HTML , CSS , Properties , JSP and XML Comments.<br><br>
